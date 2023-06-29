@@ -1,0 +1,15 @@
+C:\PoCs23\MeuTodoCoreWebApi\MeuTodoCoreWebApi.Infrastructure\bin\Debug\net5.0\MeuTodoCoreWebApi.Infrastructure.deps.json
+C:\PoCs23\MeuTodoCoreWebApi\MeuTodoCoreWebApi.Infrastructure\bin\Debug\net5.0\MeuTodoCoreWebApi.Infrastructure.runtimeconfig.json
+C:\PoCs23\MeuTodoCoreWebApi\MeuTodoCoreWebApi.Infrastructure\bin\Debug\net5.0\MeuTodoCoreWebApi.Infrastructure.runtimeconfig.dev.json
+C:\PoCs23\MeuTodoCoreWebApi\MeuTodoCoreWebApi.Infrastructure\bin\Debug\net5.0\MeuTodoCoreWebApi.Infrastructure.dll
+C:\PoCs23\MeuTodoCoreWebApi\MeuTodoCoreWebApi.Infrastructure\bin\Debug\net5.0\MeuTodoCoreWebApi.Infrastructure.pdb
+C:\PoCs23\MeuTodoCoreWebApi\MeuTodoCoreWebApi.Infrastructure\obj\Debug\net5.0\MeuTodoCoreWebApi.Infrastructure.csproj.AssemblyReference.cache
+C:\PoCs23\MeuTodoCoreWebApi\MeuTodoCoreWebApi.Infrastructure\obj\Debug\net5.0\MeuTodoCoreWebApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PoCs23\MeuTodoCoreWebApi\MeuTodoCoreWebApi.Infrastructure\obj\Debug\net5.0\MeuTodoCoreWebApi.Infrastructure.AssemblyInfoInputs.cache
+C:\PoCs23\MeuTodoCoreWebApi\MeuTodoCoreWebApi.Infrastructure\obj\Debug\net5.0\MeuTodoCoreWebApi.Infrastructure.AssemblyInfo.cs
+C:\PoCs23\MeuTodoCoreWebApi\MeuTodoCoreWebApi.Infrastructure\obj\Debug\net5.0\MeuTodoCoreWebApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\PoCs23\MeuTodoCoreWebApi\MeuTodoCoreWebApi.Infrastructure\obj\Debug\net5.0\MeuTodoCoreWebApi.Infrastructure.dll
+C:\PoCs23\MeuTodoCoreWebApi\MeuTodoCoreWebApi.Infrastructure\obj\Debug\net5.0\refint\MeuTodoCoreWebApi.Infrastructure.dll
+C:\PoCs23\MeuTodoCoreWebApi\MeuTodoCoreWebApi.Infrastructure\obj\Debug\net5.0\MeuTodoCoreWebApi.Infrastructure.pdb
+C:\PoCs23\MeuTodoCoreWebApi\MeuTodoCoreWebApi.Infrastructure\obj\Debug\net5.0\MeuTodoCoreWebApi.Infrastructure.genruntimeconfig.cache
+C:\PoCs23\MeuTodoCoreWebApi\MeuTodoCoreWebApi.Infrastructure\obj\Debug\net5.0\ref\MeuTodoCoreWebApi.Infrastructure.dll
